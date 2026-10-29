@@ -1,9 +1,0 @@
-{
-  "name":"Meine Arbeitszeit",
-  "short_name":"Arbeitszeit",
-  "start_url":"./",
-  "display":"standalone",
-  "background_color":"#f4f4f6",
-  "theme_color":"#f4f4f6",
-  "icons":[]
-}
